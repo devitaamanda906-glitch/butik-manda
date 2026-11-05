@@ -1,0 +1,6 @@
+{
+  "name": "Butik Manda — Penyewaan Busana & Gaun Pesta",
+  "description": "Website resmi penyewaan busana butik, kebaya modern, gaun pesta, jas formal, dan aksesori Butik Manda sesuai SOP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
